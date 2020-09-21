@@ -1,0 +1,82 @@
+
+.hide-radio {
+    position: relative;
+    margin-bottom: 6px;
+}
+
+.hide-radio img, .hide-radio label {
+    display: block;
+}
+.hide-radio input[type="radio"] {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    opacity: 0;
+}
+.hide-radio input[type=radio] + label {
+    border: 3px solid #F1F1F1;
+}
+
+.hide-radio input[type=radio]:checked + label {
+    border: 3px solid #F88C00;
+}
+
+ .radio-image-wrapper
+{
+    float:left !important;
+    margin-right:30px!important;
+
+}
+.hide-radio.radio-image-wrapper.qc_radio_button {
+    float: left !important;
+    margin-right: 30px!important;
+}
+
+
+
+input#remove_media_button {
+
+    background: #d9534f!important;
+    height: 34px;
+    border-color: #d9534f!important;
+    position: relative;
+    color: #ffffff;
+
+}
+
+input#custom_media_button {
+    background: #0275d8!important;
+    height: 34px;
+    border-color: #0275d8!important;
+    position: relative;
+    color: #ffffff;
+}
+
+
+
+button.button-link.button-link-delete.widget-control-remove {
+    background: red;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+button.button-link.widget-control-close {
+    background: #f0ad4e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+
+.wp-admin select[multiple] {
+    height: auto !important;
+}
+
+
+
+/*  =======add new css ======================*/
+
+

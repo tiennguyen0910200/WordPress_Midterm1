@@ -1,0 +1,971 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ample Magazine\n"
+"POT-Creation-Date: 2020-07-25 00:55+0545\n"
+"PO-Revision-Date: 2020-07-25 00:55+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:78
+msgid "https://www.amplethemes.com/"
+msgstr ""
+
+#: footer.php:81
+#, php-format
+msgid " Design & develop by AmpleThemes %s"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Buttom Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Advertisement Area"
+msgstr ""
+
+#: functions.php:143 functions.php:152 functions.php:184 functions.php:193
+#: functions.php:202 functions.php:211 functions.php:220
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:150
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:162
+msgid "HomePage Section "
+msgstr ""
+
+#: functions.php:164 functions.php:174
+msgid "Add  widgets here what you want in home widgets."
+msgstr ""
+
+#: functions.php:172
+msgid "HomePage Section with No Sidebar  "
+msgstr ""
+
+#: functions.php:182
+msgid "Footer1 "
+msgstr ""
+
+#: functions.php:191
+msgid "Footer2 "
+msgstr ""
+
+#: functions.php:200
+msgid "Footer3 "
+msgstr ""
+
+#: functions.php:209
+msgid "Footer4 "
+msgstr ""
+
+#: functions.php:218
+msgid "Banner Sidebar For Layout 3"
+msgstr ""
+
+#: header.php:41
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:81
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:102
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:106
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:130
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:133
+msgid "Ample_Magazine"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:139
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer, please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:143
+msgid ""
+"Clicking the button below will install and activate the Advanced Import and "
+"Ample Themes Demo Importer plugin."
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:145
+msgid "Get started with Ample_Magazine"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:146
+msgid "Get started with Ample Magazine"
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:180
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/admin-notice/class-notice-handler.php:252
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:6
+msgid "Homepage General Setting"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:19
+#: inc/ample-themes/core-customizer/all-customizer.php:39
+msgid "Site Layout"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:40
+msgid "Choose layout"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:52
+msgid "Breaking News Options"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:74
+msgid "Breaking News Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:75
+#: inc/ample-themes/core-customizer/all-customizer.php:164
+#: inc/ample-themes/popular-tag/popular-tags-customizer.php:35
+#: inc/ample-themes/trending-news/trending-news-customizer.php:35
+msgid "Show/hide option for this Section."
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:92
+#: inc/ample-themes/popular-tag/popular-tags-customizer.php:52
+#: inc/ample-themes/trending-news/trending-news-customizer.php:52
+#: inc/ample-themes/widgets/adverstisement-widget.php:34
+#: inc/ample-themes/widgets/ample-author-widget.php:36
+#: inc/ample-themes/widgets/layout2.php:39
+#: inc/ample-themes/widgets/layout3.php:38
+#: inc/ample-themes/widgets/layout4.php:39
+#: inc/ample-themes/widgets/recent-post.php:37
+#: inc/ample-themes/widgets/social-widget.php:18
+msgid "Title"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:111
+#: inc/ample-themes/core-customizer/reuse/core-funtions.php:119
+#: inc/ample-themes/trending-news/trending-news-customizer.php:71
+#: inc/ample-themes/widgets/layout1.php:56
+#: inc/ample-themes/widgets/layout2.php:57
+#: inc/ample-themes/widgets/layout3.php:56
+#: inc/ample-themes/widgets/layout4.php:56
+#: inc/ample-themes/widgets/recent-post.php:46
+msgid "Select Category"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:129
+#: inc/ample-themes/trending-news/trending-news-customizer.php:89
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:144
+msgid "header Social Sharing"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:163
+msgid "Header Social Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:189
+msgid "Facebook Url Link"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:190
+#: inc/ample-themes/core-customizer/all-customizer.php:209
+#: inc/ample-themes/core-customizer/all-customizer.php:228
+#: inc/ample-themes/core-customizer/all-customizer.php:246
+msgid "Use full url link"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:208
+msgid "twitter Url Link"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:227
+msgid "Google+ Url Link"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:245
+msgid "linkedin Url Link"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:267
+#: inc/ample-themes/core-customizer/all-customizer.php:287
+msgid "Header Layout Options"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:314
+msgid "Main Banner Section"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:337
+msgid "Slider Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:338
+msgid "Show/hide option for homepage Slider Section."
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:360
+msgid "Banner Design Layout Options"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:382
+msgid "Banner Layout Options"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:407
+msgid "Slider Category"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:408
+msgid "Select Category for Homepage Slider Section"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:430
+msgid "No of Slider"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:460
+msgid "Feature Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:461
+msgid "Show/hide option for homepage Feature Section."
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:490
+msgid "Feature Category"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:491
+msgid "Select Category For  Feature Section"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:508
+msgid "Footer Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:529
+msgid "Copyright"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:546
+msgid "Date Format Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:564
+msgid "Date Format Options"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:582
+msgid "Meta Option On front "
+msgstr ""
+
+#: inc/ample-themes/core-customizer/all-customizer.php:598
+msgid "Display Meta Option"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/catagories-color/categories-color.php:12
+msgid "Category Color"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/catagories-color/categories-color.php:13
+msgid "You can select the different color for each category."
+msgstr ""
+
+#: inc/ample-themes/core-customizer/catagories-color/categories-color.php:40
+#, php-format
+msgid "\"%s\" Color"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/default.php:43
+msgid "Breaking News"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/default.php:47
+msgid "Trending News"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/default.php:69
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/default.php:92
+msgid "Popular Tag"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/reuse/core-funtions.php:33
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:14
+#: inc/ample-themes/core-customizer/theme-option-function.php:33
+#: inc/ample-themes/core-customizer/theme-option-function.php:49
+#: inc/ample-themes/core-customizer/theme-option-function.php:83
+#: inc/ample-themes/layout-design/layout-functions.php:50
+msgid "Show"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:15
+#: inc/ample-themes/core-customizer/theme-option-function.php:34
+#: inc/ample-themes/core-customizer/theme-option-function.php:50
+#: inc/ample-themes/core-customizer/theme-option-function.php:84
+#: inc/ample-themes/layout-design/layout-functions.php:51
+msgid "Hide"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:65
+#: inc/ample-themes/core-customizer/theme-option-function.php:98
+msgid "Layout 1"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:66
+#: inc/ample-themes/core-customizer/theme-option-function.php:99
+msgid "Layout 2"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:100
+msgid "Layout 3"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:116
+msgid "Full Width"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:117
+msgid "Conatiner"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:141
+msgid "Full Layout"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:142
+msgid "Box Layout"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:158
+msgid "Theme Default Date"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:159
+msgid "WordPress Default Date"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:174
+msgid "Display Author and Date"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:175
+msgid "Display Date Only"
+msgstr ""
+
+#: inc/ample-themes/core-customizer/theme-option-function.php:176
+msgid "None"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:16
+msgid "Default Sidebar Layout Option"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:37
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:38
+msgid ""
+"Home/front page does not have sidebar. Inner pages like blog, archive single "
+"page/post Sidebar Layout. However single page/post sidebar can be overridden."
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:57
+msgid "Blog/Archive Layout Option"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:77
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:98
+msgid "Show Description From"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:117
+msgid "Description Length In Words"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:131
+msgid "Feature Image Option For Single post / Page"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-customization.php:154
+msgid "Show/Hide Feature Image For Single Page/post"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-functions.php:6
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-functions.php:7
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-functions.php:8
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-functions.php:29
+msgid "Excerpt"
+msgstr ""
+
+#: inc/ample-themes/layout-design/layout-functions.php:30
+msgid "Content"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:49
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:58
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:93
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:115
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/ample-themes/metabox/metabox-page-post-sidebar.php:117
+msgid "here"
+msgstr ""
+
+#: inc/ample-themes/popular-tag/popular-tags-customizer.php:12
+msgid "Popular Tags Options"
+msgstr ""
+
+#: inc/ample-themes/popular-tag/popular-tags-customizer.php:34
+msgid "Papular Tags Option"
+msgstr ""
+
+#: inc/ample-themes/popular-tag/popular-tags-customizer.php:72
+msgid "Number of Tag"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:13
+msgid "Theme Option"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:30
+msgid "Primary Color"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:31
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:55
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:79
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:103
+msgid ""
+"We recommend choose  different  background color but not to choose similar "
+"to font color"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:54
+msgid "Beaking News Background Color"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:78
+msgid "Top Footer Background Color"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:102
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:119
+msgid "Front Page Options"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:137
+msgid "Hide Blog Posts or Static Page on Front Page"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:154
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:174
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:189
+msgid "Hide Latest Blog Options"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-customizer.php:207
+msgid "Show Latest Blog Section  "
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:12
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:30
+msgid "Enable"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:13
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:31
+msgid "Disable"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:49
+msgid "Do Not Reset"
+msgstr ""
+
+#: inc/ample-themes/theme-options-customizer/theme-options-functions.php:50
+msgid "Reset All"
+msgstr ""
+
+#: inc/ample-themes/trending-news/trending-news-customizer.php:12
+msgid "Trending News Options"
+msgstr ""
+
+#: inc/ample-themes/trending-news/trending-news-customizer.php:34
+msgid "Trending News Option"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:19
+msgid "AT: Advertisement Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:20
+msgid " Top Header Advertisement Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:42
+msgid "Advertisement Link"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:51
+#: inc/ample-themes/widgets/adverstisement-widget.php:62
+#: inc/ample-themes/widgets/adverstisement-widget.php:63
+msgid "Select Advertisement Image"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:55
+#: inc/ample-themes/widgets/ample-author-widget.php:50
+msgid "Image preview"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:61
+#: inc/ample-themes/widgets/ample-author-widget.php:56
+msgid "Upload Image"
+msgstr ""
+
+#: inc/ample-themes/widgets/adverstisement-widget.php:65
+#: inc/ample-themes/widgets/ample-author-widget.php:60
+msgid "Remove Image"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:20
+msgid "AT : Author Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:21
+msgid " Author Widgets"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:46
+#: inc/ample-themes/widgets/ample-author-widget.php:57
+#: inc/ample-themes/widgets/ample-author-widget.php:58
+msgid "Select Author Image"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:65
+msgid "About Author"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:76
+#: inc/ample-themes/widgets/social-widget.php:29
+msgid "Facebook"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:88
+#: inc/ample-themes/widgets/social-widget.php:39
+msgid "Twitter"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:99
+#: inc/ample-themes/widgets/social-widget.php:48
+msgid "Google Plus"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:112
+#: inc/ample-themes/widgets/social-widget.php:60
+msgid "Linkedin"
+msgstr ""
+
+#: inc/ample-themes/widgets/ample-author-widget.php:123
+#: inc/ample-themes/widgets/social-widget.php:69
+msgid "Youtube"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:10
+msgid "Political"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:23
+msgid "AT: Layout 1"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:24
+msgid "choose category Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:38
+msgid "Title:"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:45
+#: inc/ample-themes/widgets/layout2.php:46
+#: inc/ample-themes/widgets/layout3.php:46
+#: inc/ample-themes/widgets/layout4.php:46
+msgid "Layout"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:50
+#: inc/ample-themes/widgets/layout2.php:51
+#: inc/ample-themes/widgets/layout3.php:50
+#: inc/ample-themes/widgets/layout4.php:51
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout1.php:60
+#: inc/ample-themes/widgets/layout2.php:61
+#: inc/ample-themes/widgets/layout3.php:60
+#: inc/ample-themes/widgets/layout4.php:60
+#: inc/ample-themes/widgets/recent-post.php:50
+msgid "From Recent Posts"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout2.php:11
+msgid "Sports News"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout2.php:22
+msgid "AT: layout 2"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout2.php:23
+msgid "One column News Post Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout2.php:183
+#: inc/ample-themes/widgets/layout3.php:179 template-parts/content.php:78
+msgid "Read More"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout3.php:11
+msgid "World News"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout3.php:21
+msgid "AT: Layout 3"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout3.php:22
+msgid "Three column News Post Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout4.php:11
+msgid "Tech News"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout4.php:22
+msgid "AT: Layout 4"
+msgstr ""
+
+#: inc/ample-themes/widgets/layout4.php:23
+msgid "Two big image to small Post Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/recent-post.php:11
+msgid "Popular News"
+msgstr ""
+
+#: inc/ample-themes/widgets/recent-post.php:21
+msgid "AT: Popular Sidebar Widget"
+msgstr ""
+
+#: inc/ample-themes/widgets/recent-post.php:22
+msgid "Popular Post Section"
+msgstr ""
+
+#: inc/ample-themes/widgets/social-widget.php:9
+msgid "AT: Social widgets"
+msgstr ""
+
+#: inc/ample-themes/widgets/social-widget.php:10
+msgid "Best displayed in Sidebar."
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:59
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:141
+msgid ","
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:226
+msgid "ago"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:229
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/breadcrumbs/breadcrumbs.php:264
+msgid "You Are Here"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:788
+#: library/breadcrumbs/breadcrumbs.php:817
+#: library/breadcrumbs/breadcrumbs.php:844
+#: library/breadcrumbs/breadcrumbs.php:871
+#: library/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:789
+#: library/breadcrumbs/breadcrumbs.php:845
+#: library/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:790
+#: library/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: library/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: search.php:52
+msgid "Search Result"
+msgstr ""
+
+#: template-parts/content-fullwidth.php:26 template-parts/content-page.php:28
+#: template-parts/content-single.php:75 template-parts/content.php:71
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-fullwidth.php:39 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:64
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Ample Magazine"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ample Magazine is clean, powerful, flexible, highly customizable and "
+"Gutenberg ready WordPress theme with responsive and beautifully crafted "
+"design."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "amplethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://amplethemes.com"
+msgstr ""
