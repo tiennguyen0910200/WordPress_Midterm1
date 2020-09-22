@@ -22,7 +22,7 @@ get_header();
         <section class="block-wrapper">
             <div class="container">
                 <div class="row">
-                    <div id="primary" class="col-lg-12 col-md-12">
+                    <div id="primary" >
 
                         <main id="main" class="site-main">
 

@@ -23,7 +23,7 @@ do_action('ample_magazine_breadcrumb_type');
 		<section class="block-wrapper">
 			<div class="container">
 				<div class="row">
-					<div id="primary" class="col-lg-8 col-md-12">
+					<div id="primary"  class="">
 
 						<main id="main" class="site-main">
 
